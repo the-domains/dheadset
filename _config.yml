@@ -2,6 +2,7 @@ name: dheadset
 favicon: null
 layout_spectrum: 0.9157951103989035
 typography_spectrum: 0.12880141893401742
+title: D.headset
 cta:
   domain: null
   bucket: null
