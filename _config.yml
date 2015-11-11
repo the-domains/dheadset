@@ -1,0 +1,23 @@
+name: dheadset
+favicon: null
+layout_spectrum: 0.9157951103989035
+typography_spectrum: 0.12880141893401742
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.9013474034145474
+  lightness: 0.7138246984686702
+  saturation: 0.9917628986295313
+  rhythmicContrast: 0.8385914792306721
+purpose: []
